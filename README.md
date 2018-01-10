@@ -8,8 +8,15 @@ Simple, pretty and powerful logger for android
 
 ### Setup
 Download
+gradle 2.x:
 ```groovy
 compile 'com.orhanobut:logger:2.1.1'
+```
+
+gradle 3.x:
+
+```groovy
+implementation 'com.orhanobut:logger:2.1.1'
 ```
 
 Initialize
